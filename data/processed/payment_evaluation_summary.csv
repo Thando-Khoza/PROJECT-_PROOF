@@ -1,0 +1,4 @@
+issue_type,expected,detected,true_positives,false_positives,false_negatives,precision,recall,f1_score
+OVERPAYMENT,5,5,5,0,0,1.0,1.0,1.0
+UNDERPAYMENT,5,5,5,0,0,1.0,1.0,1.0
+UNMATCHED_PAYMENT,5,5,5,0,0,1.0,1.0,1.0

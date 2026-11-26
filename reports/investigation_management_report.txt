@@ -1,0 +1,89 @@
+===========================================================================
+PROJECT PROOF
+FINANCIAL VERIFICATION | INVESTIGATION MANAGEMENT REPORT
+===========================================================================
+Report generated: 2026-11-26 14:17:57
+
+1. EXECUTIVE SUMMARY
+---------------------------------------------------------------------------
+Investigation cases: 60
+High-risk cases: 5
+Medium-risk cases: 43
+Low-risk cases: 12
+
+2. FINANCIAL OVERVIEW
+---------------------------------------------------------------------------
+Recorded financial discrepancies: R146,020.23
+Largest individual discrepancy: R43,351.80
+Combined value of flagged purchase orders: R5,362,233.05
+Largest flagged purchase order: R2,359,660.35
+
+3. RISK DISTRIBUTION
+---------------------------------------------------------------------------
+HIGH: 5 cases (8.3%)
+MEDIUM: 43 cases (71.7%)
+LOW: 12 cases (20.0%)
+
+4. FINDINGS BY ISSUE TYPE
+---------------------------------------------------------------------------
+PRICE_DISCREPANCY: 10 cases
+DUPLICATE_INVOICE: 10 cases
+QUANTITY_DISCREPANCY: 10 cases
+SUPPLIER_MISMATCH: 5 cases
+UNMATCHED_INVOICE: 5 cases
+OVERPAYMENT: 5 cases
+UNDERPAYMENT: 5 cases
+UNMATCHED_PAYMENT: 5 cases
+HIGH_VALUE_ORDER: 5 cases
+UNUSUAL_ORDER_VALUE: 5 cases
+
+5. HIGH-PRIORITY INVESTIGATIONS
+---------------------------------------------------------------------------
+
+Priority #1 | CASE-0057
+Record: PO-10045
+Risk score: 90/100
+Issues: HIGH_VALUE_ORDER | UNUSUAL_ORDER_VALUE
+Recommended action: Review purchase order approval and supporting procurement documentation. | Review the unusual order value against supplier history and supporting documentation.
+
+Priority #2 | CASE-0058
+Record: PO-10053
+Risk score: 90/100
+Issues: HIGH_VALUE_ORDER | UNUSUAL_ORDER_VALUE
+Recommended action: Review purchase order approval and supporting procurement documentation. | Review the unusual order value against supplier history and supporting documentation.
+
+Priority #3 | CASE-0060
+Record: PO-10099
+Risk score: 85/100
+Issues: HIGH_VALUE_ORDER | UNUSUAL_ORDER_VALUE
+Recommended action: Review purchase order approval and supporting procurement documentation. | Review the unusual order value against supplier history and supporting documentation.
+
+Priority #4 | CASE-0059
+Record: PO-10086
+Risk score: 85/100
+Issues: HIGH_VALUE_ORDER | UNUSUAL_ORDER_VALUE
+Recommended action: Review purchase order approval and supporting procurement documentation. | Review the unusual order value against supplier history and supporting documentation.
+
+Priority #5 | CASE-0056
+Record: PO-10013
+Risk score: 75/100
+Issues: HIGH_VALUE_ORDER | UNUSUAL_ORDER_VALUE
+Recommended action: Review purchase order approval and supporting procurement documentation. | Review the unusual order value against supplier history and supporting documentation.
+
+6. MANAGEMENT OBSERVATIONS
+---------------------------------------------------------------------------
+5 cases require priority review under the current risk classification model.
+Investigation cases consolidate related detection alerts to reduce duplicate case handling.
+Original finding records are retained separately as supporting investigation evidence.
+Automated findings indicate potential issues requiring human review; they do not establish fraud or misconduct.
+
+7. REPORTING NOTES
+---------------------------------------------------------------------------
+Financial discrepancies and purchase order values are reported as separate measures.
+The combined flagged purchase order value is not a confirmed financial loss.
+Risk scores are based on the project's configured prioritisation rules.
+This report reflects the current generated dataset and available investigation outputs.
+
+===========================================================================
+END OF REPORT
+===========================================================================

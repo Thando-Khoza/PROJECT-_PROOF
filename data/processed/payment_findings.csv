@@ -1,0 +1,21 @@
+issue_type,record_type,record_id,related_record_id,expected_value,observed_value,difference,explanation
+SUPPLIER_MISMATCH,invoice,INV-20009,PAY-30009,SUP002,SUP009,,Payment supplier does not match the supplier recorded on the invoice.
+OVERPAYMENT,payment,PAY-30022,INV-20022,46984.7,56381.64,9396.94,Total payments exceed the invoice amount.
+UNDERPAYMENT,payment,PAY-30027,INV-20027,12542.04,10033.63,-2508.41,Total payments are below the invoice amount.
+OVERPAYMENT,payment,PAY-30031,INV-20031,40457.34,48548.81,8091.47,Total payments exceed the invoice amount.
+OVERPAYMENT,payment,PAY-30033,INV-20033,45724.02,54868.82,9144.80,Total payments exceed the invoice amount.
+UNDERPAYMENT,payment,PAY-30034,INV-20034,13338.0,10670.4,-2667.6,Total payments are below the invoice amount.
+SUPPLIER_MISMATCH,invoice,INV-20048,PAY-30048,SUP010,SUP004,,Payment supplier does not match the supplier recorded on the invoice.
+UNDERPAYMENT,payment,PAY-30050,INV-20050,210830.72,168664.58,-42166.14,Total payments are below the invoice amount.
+SUPPLIER_MISMATCH,invoice,INV-20060,PAY-30060,SUP006,SUP004,,Payment supplier does not match the supplier recorded on the invoice.
+SUPPLIER_MISMATCH,invoice,INV-20064,PAY-30064,SUP002,SUP006,,Payment supplier does not match the supplier recorded on the invoice.
+SUPPLIER_MISMATCH,invoice,INV-20075,PAY-30075,SUP005,SUP010,,Payment supplier does not match the supplier recorded on the invoice.
+OVERPAYMENT,payment,PAY-30081,INV-20081,26460.63,31752.76,5292.13,Total payments exceed the invoice amount.
+UNDERPAYMENT,payment,PAY-30084,INV-20084,216759.0,173407.2,-43351.8,Total payments are below the invoice amount.
+UNDERPAYMENT,payment,PAY-30088,INV-20088,58281.55,46625.24,-11656.31,Total payments are below the invoice amount.
+OVERPAYMENT,payment,PAY-30097,INV-20097,47969.68,57563.62,9593.94,Total payments exceed the invoice amount.
+UNMATCHED_PAYMENT,payment,PAY-UNMATCHED-1,INV-MISSING-1,Existing supplier invoice,Invoice not found,,Payment references an invoice that does not exist.
+UNMATCHED_PAYMENT,payment,PAY-UNMATCHED-2,INV-MISSING-2,Existing supplier invoice,Invoice not found,,Payment references an invoice that does not exist.
+UNMATCHED_PAYMENT,payment,PAY-UNMATCHED-3,INV-MISSING-3,Existing supplier invoice,Invoice not found,,Payment references an invoice that does not exist.
+UNMATCHED_PAYMENT,payment,PAY-UNMATCHED-4,INV-MISSING-4,Existing supplier invoice,Invoice not found,,Payment references an invoice that does not exist.
+UNMATCHED_PAYMENT,payment,PAY-UNMATCHED-5,INV-MISSING-5,Existing supplier invoice,Invoice not found,,Payment references an invoice that does not exist.

@@ -1,0 +1,6 @@
+record_type,record_id,issue_type,supplier_id,quantity,unit_price,order_value,threshold,risk_level,description
+purchase_order,PO-10013,HIGH_VALUE_ORDER,SUP009,5,19886.06,99430.30,10000.00,HIGH,Purchase order has a unit price above the high-value review threshold.
+purchase_order,PO-10045,HIGH_VALUE_ORDER,SUP009,95,24838.53,2359660.35,10000.00,HIGH,Purchase order has a unit price above the high-value review threshold.
+purchase_order,PO-10053,HIGH_VALUE_ORDER,SUP003,60,18082.58,1084954.80,10000.00,HIGH,Purchase order has a unit price above the high-value review threshold.
+purchase_order,PO-10086,HIGH_VALUE_ORDER,SUP004,40,22135.45,885418.00,10000.00,HIGH,Purchase order has a unit price above the high-value review threshold.
+purchase_order,PO-10099,HIGH_VALUE_ORDER,SUP007,40,23319.24,932769.60,10000.00,HIGH,Purchase order has a unit price above the high-value review threshold.

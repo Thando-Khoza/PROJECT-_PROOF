@@ -1,0 +1,61 @@
+record_type,record_id,issue_type,expected_reason
+invoice,INV-20002,PRICE_DISCREPANCY,Invoice unit price exceeds purchase order price.
+invoice,INV-20009,SUPPLIER_MISMATCH,Invoice supplier differs from purchase order supplier.
+invoice,INV-20010,PRICE_DISCREPANCY,Invoice unit price exceeds purchase order price.
+invoice,INV-20011,QUANTITY_DISCREPANCY,Invoice quantity exceeds purchase order quantity.
+purchase_order,PO-10013,HIGH_VALUE_ORDER,Purchase order contains an unusually high unit price and requires review.
+invoice,INV-20016,PRICE_DISCREPANCY,Invoice unit price exceeds purchase order price.
+payment,PAY-30022,OVERPAYMENT,Payment exceeds the invoice amount.
+payment,PAY-30027,UNDERPAYMENT,Payment is below the invoice amount.
+payment,PAY-30031,OVERPAYMENT,Payment exceeds the invoice amount.
+payment,PAY-30033,OVERPAYMENT,Payment exceeds the invoice amount.
+payment,PAY-30034,UNDERPAYMENT,Payment is below the invoice amount.
+invoice,INV-20038,QUANTITY_DISCREPANCY,Invoice quantity exceeds purchase order quantity.
+invoice,INV-20042,PRICE_DISCREPANCY,Invoice unit price exceeds purchase order price.
+invoice,INV-20043,PRICE_DISCREPANCY,Invoice unit price exceeds purchase order price.
+purchase_order,PO-10045,HIGH_VALUE_ORDER,Purchase order contains an unusually high unit price and requires review.
+invoice,INV-20046,QUANTITY_DISCREPANCY,Invoice quantity exceeds purchase order quantity.
+invoice,INV-20048,SUPPLIER_MISMATCH,Invoice supplier differs from purchase order supplier.
+invoice,INV-20049,QUANTITY_DISCREPANCY,Invoice quantity exceeds purchase order quantity.
+payment,PAY-30050,UNDERPAYMENT,Payment is below the invoice amount.
+invoice,INV-20051,PRICE_DISCREPANCY,Invoice unit price exceeds purchase order price.
+purchase_order,PO-10053,HIGH_VALUE_ORDER,Purchase order contains an unusually high unit price and requires review.
+invoice,INV-20056,QUANTITY_DISCREPANCY,Invoice quantity exceeds purchase order quantity.
+invoice,INV-20057,QUANTITY_DISCREPANCY,Invoice quantity exceeds purchase order quantity.
+invoice,INV-20060,SUPPLIER_MISMATCH,Invoice supplier differs from purchase order supplier.
+invoice,INV-20064,SUPPLIER_MISMATCH,Invoice supplier differs from purchase order supplier.
+invoice,INV-20066,PRICE_DISCREPANCY,Invoice unit price exceeds purchase order price.
+invoice,INV-20071,PRICE_DISCREPANCY,Invoice unit price exceeds purchase order price.
+invoice,INV-20073,QUANTITY_DISCREPANCY,Invoice quantity exceeds purchase order quantity.
+invoice,INV-20074,QUANTITY_DISCREPANCY,Invoice quantity exceeds purchase order quantity.
+invoice,INV-20075,SUPPLIER_MISMATCH,Invoice supplier differs from purchase order supplier.
+invoice,INV-20077,QUANTITY_DISCREPANCY,Invoice quantity exceeds purchase order quantity.
+invoice,INV-20079,PRICE_DISCREPANCY,Invoice unit price exceeds purchase order price.
+payment,PAY-30081,OVERPAYMENT,Payment exceeds the invoice amount.
+payment,PAY-30084,UNDERPAYMENT,Payment is below the invoice amount.
+purchase_order,PO-10086,HIGH_VALUE_ORDER,Purchase order contains an unusually high unit price and requires review.
+payment,PAY-30088,UNDERPAYMENT,Payment is below the invoice amount.
+invoice,INV-20092,PRICE_DISCREPANCY,Invoice unit price exceeds purchase order price.
+invoice,INV-20093,QUANTITY_DISCREPANCY,Invoice quantity exceeds purchase order quantity.
+payment,PAY-30097,OVERPAYMENT,Payment exceeds the invoice amount.
+purchase_order,PO-10099,HIGH_VALUE_ORDER,Purchase order contains an unusually high unit price and requires review.
+invoice,INV-20008,DUPLICATE_INVOICE,The same invoice appears more than once.
+invoice,INV-20019,DUPLICATE_INVOICE,The same invoice appears more than once.
+invoice,INV-20024,DUPLICATE_INVOICE,The same invoice appears more than once.
+invoice,INV-20035,DUPLICATE_INVOICE,The same invoice appears more than once.
+invoice,INV-20037,DUPLICATE_INVOICE,The same invoice appears more than once.
+invoice,INV-20040,DUPLICATE_INVOICE,The same invoice appears more than once.
+invoice,INV-20041,DUPLICATE_INVOICE,The same invoice appears more than once.
+invoice,INV-20061,DUPLICATE_INVOICE,The same invoice appears more than once.
+invoice,INV-20062,DUPLICATE_INVOICE,The same invoice appears more than once.
+invoice,INV-20067,DUPLICATE_INVOICE,The same invoice appears more than once.
+invoice,INV-UNMATCHED-1,UNMATCHED_INVOICE,Invoice references a purchase order that does not exist.
+invoice,INV-UNMATCHED-2,UNMATCHED_INVOICE,Invoice references a purchase order that does not exist.
+invoice,INV-UNMATCHED-3,UNMATCHED_INVOICE,Invoice references a purchase order that does not exist.
+invoice,INV-UNMATCHED-4,UNMATCHED_INVOICE,Invoice references a purchase order that does not exist.
+invoice,INV-UNMATCHED-5,UNMATCHED_INVOICE,Invoice references a purchase order that does not exist.
+payment,PAY-UNMATCHED-1,UNMATCHED_PAYMENT,Payment references an invoice that does not exist.
+payment,PAY-UNMATCHED-2,UNMATCHED_PAYMENT,Payment references an invoice that does not exist.
+payment,PAY-UNMATCHED-3,UNMATCHED_PAYMENT,Payment references an invoice that does not exist.
+payment,PAY-UNMATCHED-4,UNMATCHED_PAYMENT,Payment references an invoice that does not exist.
+payment,PAY-UNMATCHED-5,UNMATCHED_PAYMENT,Payment references an invoice that does not exist.

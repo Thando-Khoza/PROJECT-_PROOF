@@ -1,0 +1,41 @@
+issue_type,record_type,record_id,related_record_id,expected_value,observed_value,difference,explanation
+PRICE_DISCREPANCY,invoice,INV-20002,PO-10002,2223.24,2556.73,333.49,Invoice unit price differs from the approved purchase order price.
+SUPPLIER_MISMATCH,invoice,INV-20009,PO-10009,SUP009,SUP002,,Invoice supplier does not match the purchase order supplier.
+PRICE_DISCREPANCY,invoice,INV-20010,PO-10010,107.79,123.96,16.17,Invoice unit price differs from the approved purchase order price.
+QUANTITY_DISCREPANCY,invoice,INV-20011,PO-10011,69,79,10,Invoiced quantity differs from the purchase order quantity.
+PRICE_DISCREPANCY,invoice,INV-20016,PO-10016,1240.68,1426.78,186.10,Invoice unit price differs from the approved purchase order price.
+QUANTITY_DISCREPANCY,invoice,INV-20038,PO-10038,56,61,5,Invoiced quantity differs from the purchase order quantity.
+PRICE_DISCREPANCY,invoice,INV-20042,PO-10042,1199.89,1379.87,179.98,Invoice unit price differs from the approved purchase order price.
+PRICE_DISCREPANCY,invoice,INV-20043,PO-10043,1314.12,1511.24,197.12,Invoice unit price differs from the approved purchase order price.
+QUANTITY_DISCREPANCY,invoice,INV-20046,PO-10046,43,47,4,Invoiced quantity differs from the purchase order quantity.
+SUPPLIER_MISMATCH,invoice,INV-20048,PO-10048,SUP004,SUP010,,Invoice supplier does not match the purchase order supplier.
+QUANTITY_DISCREPANCY,invoice,INV-20049,PO-10049,16,18,2,Invoiced quantity differs from the purchase order quantity.
+PRICE_DISCREPANCY,invoice,INV-20051,PO-10051,1126.45,1295.42,168.97,Invoice unit price differs from the approved purchase order price.
+QUANTITY_DISCREPANCY,invoice,INV-20056,PO-10056,25,33,8,Invoiced quantity differs from the purchase order quantity.
+QUANTITY_DISCREPANCY,invoice,INV-20057,PO-10057,57,63,6,Invoiced quantity differs from the purchase order quantity.
+SUPPLIER_MISMATCH,invoice,INV-20060,PO-10060,SUP004,SUP006,,Invoice supplier does not match the purchase order supplier.
+SUPPLIER_MISMATCH,invoice,INV-20064,PO-10064,SUP006,SUP002,,Invoice supplier does not match the purchase order supplier.
+PRICE_DISCREPANCY,invoice,INV-20066,PO-10066,1826.63,2100.62,273.99,Invoice unit price differs from the approved purchase order price.
+PRICE_DISCREPANCY,invoice,INV-20071,PO-10071,1465.85,1685.73,219.88,Invoice unit price differs from the approved purchase order price.
+QUANTITY_DISCREPANCY,invoice,INV-20073,PO-10073,88,97,9,Invoiced quantity differs from the purchase order quantity.
+QUANTITY_DISCREPANCY,invoice,INV-20074,PO-10074,65,68,3,Invoiced quantity differs from the purchase order quantity.
+SUPPLIER_MISMATCH,invoice,INV-20075,PO-10075,SUP010,SUP005,,Invoice supplier does not match the purchase order supplier.
+QUANTITY_DISCREPANCY,invoice,INV-20077,PO-10077,63,68,5,Invoiced quantity differs from the purchase order quantity.
+PRICE_DISCREPANCY,invoice,INV-20079,PO-10079,1968.21,2263.44,295.23,Invoice unit price differs from the approved purchase order price.
+PRICE_DISCREPANCY,invoice,INV-20092,PO-10092,1391.73,1600.49,208.76,Invoice unit price differs from the approved purchase order price.
+QUANTITY_DISCREPANCY,invoice,INV-20093,PO-10093,67,76,9,Invoiced quantity differs from the purchase order quantity.
+UNMATCHED_INVOICE,invoice,INV-UNMATCHED-1,PO-MISSING-1,Existing purchase order,Purchase order not found,,Invoice references a purchase order that does not exist.
+UNMATCHED_INVOICE,invoice,INV-UNMATCHED-2,PO-MISSING-2,Existing purchase order,Purchase order not found,,Invoice references a purchase order that does not exist.
+UNMATCHED_INVOICE,invoice,INV-UNMATCHED-3,PO-MISSING-3,Existing purchase order,Purchase order not found,,Invoice references a purchase order that does not exist.
+UNMATCHED_INVOICE,invoice,INV-UNMATCHED-4,PO-MISSING-4,Existing purchase order,Purchase order not found,,Invoice references a purchase order that does not exist.
+UNMATCHED_INVOICE,invoice,INV-UNMATCHED-5,PO-MISSING-5,Existing purchase order,Purchase order not found,,Invoice references a purchase order that does not exist.
+DUPLICATE_INVOICE,invoice,INV-20008,INV-20008,One occurrence,2,1,The same invoice number appears multiple times in the invoice dataset.
+DUPLICATE_INVOICE,invoice,INV-20019,INV-20019,One occurrence,2,1,The same invoice number appears multiple times in the invoice dataset.
+DUPLICATE_INVOICE,invoice,INV-20024,INV-20024,One occurrence,2,1,The same invoice number appears multiple times in the invoice dataset.
+DUPLICATE_INVOICE,invoice,INV-20035,INV-20035,One occurrence,2,1,The same invoice number appears multiple times in the invoice dataset.
+DUPLICATE_INVOICE,invoice,INV-20037,INV-20037,One occurrence,2,1,The same invoice number appears multiple times in the invoice dataset.
+DUPLICATE_INVOICE,invoice,INV-20040,INV-20040,One occurrence,2,1,The same invoice number appears multiple times in the invoice dataset.
+DUPLICATE_INVOICE,invoice,INV-20041,INV-20041,One occurrence,2,1,The same invoice number appears multiple times in the invoice dataset.
+DUPLICATE_INVOICE,invoice,INV-20061,INV-20061,One occurrence,2,1,The same invoice number appears multiple times in the invoice dataset.
+DUPLICATE_INVOICE,invoice,INV-20062,INV-20062,One occurrence,2,1,The same invoice number appears multiple times in the invoice dataset.
+DUPLICATE_INVOICE,invoice,INV-20067,INV-20067,One occurrence,2,1,The same invoice number appears multiple times in the invoice dataset.

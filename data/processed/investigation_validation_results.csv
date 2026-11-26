@@ -1,0 +1,11 @@
+check,status,details
+Required output files,PASS,All four output files exist.
+CSV data availability,PASS,All three investigation CSV files were loaded.
+Unique investigation case IDs,PASS,60 cases; 60 unique IDs.
+Evidence linked to valid cases,PASS,70 evidence records checked.
+Finding counts match preserved evidence,PASS,Every case's finding count matches its evidence records.
+Risk scores within valid range,PASS,All risk scores are numeric and between 0 and 100.
+Risk classification consistency,PASS,Risk levels match the configured scoring thresholds.
+Priority queue completeness,PASS,All 60 cases appear exactly once in the queue.
+Unique and complete priority ranks,PASS,Priority ranks run from 1 to 60.
+Management report completeness,PASS,Report exists and contains the required sections.

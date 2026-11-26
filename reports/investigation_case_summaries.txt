@@ -1,0 +1,2058 @@
+PROJECT PROOF | INVESTIGATION CASE SUMMARIES
+===========================================================================
+
+Total investigation cases: 60
+Total evidence records: 70
+
+These summaries support investigation and management review.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0001
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20002
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 40/100
+Priority Rank: 16
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R333.49
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. PRICE_DISCREPANCY
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Compare invoice prices against authorised purchase order prices.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0002
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20008
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 40/100
+Priority Rank: 26
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R1.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. DUPLICATE_INVOICE
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Investigate repeated invoice numbers and confirm whether duplicate billing occurred.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0003
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20009
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 45/100
+Priority Rank: 11
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R0.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. SUPPLIER_MISMATCH
+2. SUPPLIER_MISMATCH
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Verify supplier identity across purchase orders and invoices.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0004
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20010
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 40/100
+Priority Rank: 25
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R16.17
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. PRICE_DISCREPANCY
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Compare invoice prices against authorised purchase order prices.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0005
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20011
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 35/100
+Priority Rank: 39
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R10.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. QUANTITY_DISCREPANCY
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Verify invoiced quantities against authorised order quantities.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0006
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20016
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 40/100
+Priority Rank: 22
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R186.10
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. PRICE_DISCREPANCY
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Compare invoice prices against authorised purchase order prices.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0007
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20019
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 40/100
+Priority Rank: 27
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R1.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. DUPLICATE_INVOICE
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Investigate repeated invoice numbers and confirm whether duplicate billing occurred.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0008
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20024
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 40/100
+Priority Rank: 28
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R1.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. DUPLICATE_INVOICE
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Investigate repeated invoice numbers and confirm whether duplicate billing occurred.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0009
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20035
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 40/100
+Priority Rank: 29
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R1.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. DUPLICATE_INVOICE
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Investigate repeated invoice numbers and confirm whether duplicate billing occurred.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0010
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20037
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 40/100
+Priority Rank: 30
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R1.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. DUPLICATE_INVOICE
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Investigate repeated invoice numbers and confirm whether duplicate billing occurred.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0011
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20038
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 35/100
+Priority Rank: 44
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R5.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. QUANTITY_DISCREPANCY
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Verify invoiced quantities against authorised order quantities.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0012
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20040
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 40/100
+Priority Rank: 31
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R1.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. DUPLICATE_INVOICE
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Investigate repeated invoice numbers and confirm whether duplicate billing occurred.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0013
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20041
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 40/100
+Priority Rank: 32
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R1.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. DUPLICATE_INVOICE
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Investigate repeated invoice numbers and confirm whether duplicate billing occurred.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0014
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20042
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 40/100
+Priority Rank: 23
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R179.98
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. PRICE_DISCREPANCY
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Compare invoice prices against authorised purchase order prices.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0015
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20043
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 40/100
+Priority Rank: 21
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R197.12
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. PRICE_DISCREPANCY
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Compare invoice prices against authorised purchase order prices.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0016
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20046
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 35/100
+Priority Rank: 46
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R4.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. QUANTITY_DISCREPANCY
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Verify invoiced quantities against authorised order quantities.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0017
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20048
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 45/100
+Priority Rank: 12
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R0.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. SUPPLIER_MISMATCH
+2. SUPPLIER_MISMATCH
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Verify supplier identity across purchase orders and invoices.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0018
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20049
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 35/100
+Priority Rank: 48
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R2.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. QUANTITY_DISCREPANCY
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Verify invoiced quantities against authorised order quantities.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0019
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20051
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 40/100
+Priority Rank: 24
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R168.97
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. PRICE_DISCREPANCY
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Compare invoice prices against authorised purchase order prices.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0020
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20056
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 35/100
+Priority Rank: 42
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R8.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. QUANTITY_DISCREPANCY
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Verify invoiced quantities against authorised order quantities.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0021
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20057
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 35/100
+Priority Rank: 43
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R6.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. QUANTITY_DISCREPANCY
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Verify invoiced quantities against authorised order quantities.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0022
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20060
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 45/100
+Priority Rank: 13
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R0.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. SUPPLIER_MISMATCH
+2. SUPPLIER_MISMATCH
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Verify supplier identity across purchase orders and invoices.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0023
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20061
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 40/100
+Priority Rank: 33
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R1.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. DUPLICATE_INVOICE
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Investigate repeated invoice numbers and confirm whether duplicate billing occurred.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0024
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20062
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 40/100
+Priority Rank: 34
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R1.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. DUPLICATE_INVOICE
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Investigate repeated invoice numbers and confirm whether duplicate billing occurred.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0025
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20064
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 45/100
+Priority Rank: 14
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R0.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. SUPPLIER_MISMATCH
+2. SUPPLIER_MISMATCH
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Verify supplier identity across purchase orders and invoices.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0026
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20066
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 40/100
+Priority Rank: 18
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R273.99
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. PRICE_DISCREPANCY
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Compare invoice prices against authorised purchase order prices.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0027
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20067
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 40/100
+Priority Rank: 35
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R1.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. DUPLICATE_INVOICE
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Investigate repeated invoice numbers and confirm whether duplicate billing occurred.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0028
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20071
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 40/100
+Priority Rank: 19
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R219.88
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. PRICE_DISCREPANCY
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Compare invoice prices against authorised purchase order prices.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0029
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20073
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 35/100
+Priority Rank: 40
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R9.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. QUANTITY_DISCREPANCY
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Verify invoiced quantities against authorised order quantities.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0030
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20074
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 35/100
+Priority Rank: 47
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R3.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. QUANTITY_DISCREPANCY
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Verify invoiced quantities against authorised order quantities.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0031
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20075
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 45/100
+Priority Rank: 15
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R0.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. SUPPLIER_MISMATCH
+2. SUPPLIER_MISMATCH
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Verify supplier identity across purchase orders and invoices.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0032
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20077
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 35/100
+Priority Rank: 45
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R5.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. QUANTITY_DISCREPANCY
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Verify invoiced quantities against authorised order quantities.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0033
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20079
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 40/100
+Priority Rank: 17
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R295.23
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. PRICE_DISCREPANCY
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Compare invoice prices against authorised purchase order prices.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0034
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20092
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 40/100
+Priority Rank: 20
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R208.76
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. PRICE_DISCREPANCY
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Compare invoice prices against authorised purchase order prices.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0035
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-20093
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 35/100
+Priority Rank: 41
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R9.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. QUANTITY_DISCREPANCY
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Verify invoiced quantities against authorised order quantities.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0036
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-UNMATCHED-1
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: LOW
+Risk Score: 30/100
+Priority Rank: 49
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R0.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. UNMATCHED_INVOICE
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Locate supporting purchase order documentation for the invoice.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0037
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-UNMATCHED-2
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: LOW
+Risk Score: 30/100
+Priority Rank: 50
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R0.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. UNMATCHED_INVOICE
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Locate supporting purchase order documentation for the invoice.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0038
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-UNMATCHED-3
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: LOW
+Risk Score: 30/100
+Priority Rank: 51
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R0.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. UNMATCHED_INVOICE
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Locate supporting purchase order documentation for the invoice.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0039
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-UNMATCHED-4
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: LOW
+Risk Score: 30/100
+Priority Rank: 52
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R0.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. UNMATCHED_INVOICE
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Locate supporting purchase order documentation for the invoice.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0040
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: INV-UNMATCHED-5
+Record Type: INVOICE
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: LOW
+Risk Score: 30/100
+Priority Rank: 53
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R0.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. UNMATCHED_INVOICE
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Locate supporting purchase order documentation for the invoice.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0041
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: PAY-30022
+Record Type: PAYMENT
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 50/100
+Priority Rank: 7
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R9,396.94
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. OVERPAYMENT
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Review payment records and verify the excess amount.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0042
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: PAY-30027
+Record Type: PAYMENT
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: LOW
+Risk Score: 25/100
+Priority Rank: 60
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R2,508.41
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. UNDERPAYMENT
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Compare the payment amount with the invoice amount and investigate the difference.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0043
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: PAY-30031
+Record Type: PAYMENT
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 50/100
+Priority Rank: 9
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R8,091.47
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. OVERPAYMENT
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Review payment records and verify the excess amount.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0044
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: PAY-30033
+Record Type: PAYMENT
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 50/100
+Priority Rank: 8
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R9,144.80
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. OVERPAYMENT
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Review payment records and verify the excess amount.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0045
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: PAY-30034
+Record Type: PAYMENT
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: LOW
+Risk Score: 25/100
+Priority Rank: 59
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R2,667.60
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. UNDERPAYMENT
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Compare the payment amount with the invoice amount and investigate the difference.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0046
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: PAY-30050
+Record Type: PAYMENT
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 35/100
+Priority Rank: 37
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R42,166.14
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. UNDERPAYMENT
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Compare the payment amount with the invoice amount and investigate the difference.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0047
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: PAY-30081
+Record Type: PAYMENT
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 50/100
+Priority Rank: 10
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R5,292.13
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. OVERPAYMENT
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Review payment records and verify the excess amount.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0048
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: PAY-30084
+Record Type: PAYMENT
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 35/100
+Priority Rank: 36
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R43,351.80
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. UNDERPAYMENT
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Compare the payment amount with the invoice amount and investigate the difference.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0049
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: PAY-30088
+Record Type: PAYMENT
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 35/100
+Priority Rank: 38
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R11,656.31
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. UNDERPAYMENT
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Compare the payment amount with the invoice amount and investigate the difference.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0050
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: PAY-30097
+Record Type: PAYMENT
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: MEDIUM
+Risk Score: 50/100
+Priority Rank: 6
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R9,593.94
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. OVERPAYMENT
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Review payment records and verify the excess amount.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0051
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: PAY-UNMATCHED-1
+Record Type: PAYMENT
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: LOW
+Risk Score: 30/100
+Priority Rank: 54
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R0.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. UNMATCHED_PAYMENT
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Identify the invoice or supporting document associated with the payment.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0052
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: PAY-UNMATCHED-2
+Record Type: PAYMENT
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: LOW
+Risk Score: 30/100
+Priority Rank: 55
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R0.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. UNMATCHED_PAYMENT
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Identify the invoice or supporting document associated with the payment.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0053
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: PAY-UNMATCHED-3
+Record Type: PAYMENT
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: LOW
+Risk Score: 30/100
+Priority Rank: 56
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R0.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. UNMATCHED_PAYMENT
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Identify the invoice or supporting document associated with the payment.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0054
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: PAY-UNMATCHED-4
+Record Type: PAYMENT
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: LOW
+Risk Score: 30/100
+Priority Rank: 57
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R0.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. UNMATCHED_PAYMENT
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Identify the invoice or supporting document associated with the payment.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0055
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: PAY-UNMATCHED-5
+Record Type: PAYMENT
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: LOW
+Risk Score: 30/100
+Priority Rank: 58
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R0.00
+Order Value Exposure: R0.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. UNMATCHED_PAYMENT
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Identify the invoice or supporting document associated with the payment.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0056
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: PO-10013
+Record Type: PURCHASE_ORDER
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: HIGH
+Risk Score: 75/100
+Priority Rank: 5
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R0.00
+Order Value Exposure: R99,430.30
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. HIGH_VALUE_ORDER
+2. UNUSUAL_ORDER_VALUE
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Review purchase order approval and supporting procurement documentation. | Review the unusual order value against supplier history and supporting documentation.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0057
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: PO-10045
+Record Type: PURCHASE_ORDER
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: HIGH
+Risk Score: 90/100
+Priority Rank: 1
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R0.00
+Order Value Exposure: R2,359,660.35
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. HIGH_VALUE_ORDER
+2. UNUSUAL_ORDER_VALUE
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Review purchase order approval and supporting procurement documentation. | Review the unusual order value against supplier history and supporting documentation.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0058
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: PO-10053
+Record Type: PURCHASE_ORDER
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: HIGH
+Risk Score: 90/100
+Priority Rank: 2
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R0.00
+Order Value Exposure: R1,084,954.80
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. HIGH_VALUE_ORDER
+2. UNUSUAL_ORDER_VALUE
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Review purchase order approval and supporting procurement documentation. | Review the unusual order value against supplier history and supporting documentation.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0059
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: PO-10086
+Record Type: PURCHASE_ORDER
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: HIGH
+Risk Score: 85/100
+Priority Rank: 4
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R0.00
+Order Value Exposure: R885,418.00
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. HIGH_VALUE_ORDER
+2. UNUSUAL_ORDER_VALUE
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Review purchase order approval and supporting procurement documentation. | Review the unusual order value against supplier history and supporting documentation.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
+===========================================================================
+INVESTIGATION CASE: CASE-0060
+===========================================================================
+
+CASE INFORMATION
+---------------------------------------------------------------------------
+Record ID: PO-10099
+Record Type: PURCHASE_ORDER
+Supplier ID: Not available
+Supplier Name: Not available
+
+RISK ASSESSMENT
+---------------------------------------------------------------------------
+Risk Level: HIGH
+Risk Score: 85/100
+Priority Rank: 3
+
+FINANCIAL INFORMATION
+---------------------------------------------------------------------------
+Financial Difference: R0.00
+Order Value Exposure: R932,769.60
+
+DETECTED FINDINGS
+---------------------------------------------------------------------------
+1. HIGH_VALUE_ORDER
+2. UNUSUAL_ORDER_VALUE
+
+RECOMMENDED INVESTIGATION ACTION
+---------------------------------------------------------------------------
+Review purchase order approval and supporting procurement documentation. | Review the unusual order value against supplier history and supporting documentation.
+
+INVESTIGATION NOTE
+---------------------------------------------------------------------------
+This case contains automated findings that require appropriate human review. An identified discrepancy or unusual pattern does not, by itself, establish fraud or confirm a financial loss.
+
